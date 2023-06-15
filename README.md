@@ -16,3 +16,4 @@
 14. How to encode data in PHP?
 15. How to supply intended HTTP response code in PHP?
 16. Explain mechanism of encrypting and varifying passwords for user authentication in PHP using appropriate functions.
+17. [List SQL queries for CRUD operations.](https://medium.com/@milankathiriya/sql-queries-for-sqlite-database-9729a841ba7d)
